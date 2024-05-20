@@ -1,7 +1,7 @@
 Programmering 1, 100 poäng
 Kurskod: PRRPRR01
 
-Kursen programmering 1 omfattar punkterna 1—6 och 9—10 under rubriken Ämnets syfte.
+Kursen programmering 1 omfattar punkterna 1–6 och 9–10 under rubriken Ämnets syfte.
 
 Centralt innehåll
 Undervisningen i kursen ska behandla följande centrala innehåll:
@@ -15,7 +15,7 @@ Grundläggande datastrukturer och algoritmer.
 Gränssnitt för interaktion mellan program och användare.
 Normer och värden inom programmering, till exempel läsbarhet, dokumentation, testbarhet, rena gränssnitt och nyttan av standard.
 
-Kunskapskrav
+Betygskriterier
 
 Betyget E
 Eleven formulerar och planerar i samråd med handledare programmeringsuppgifter med pseudokod eller diagramteknik. 
@@ -30,7 +30,7 @@ Eleven redogör översiktligt för programmeringens möjligheter och begränsnin
 Eleven redogör översiktligt för principer för att uppnå god kvalitet vid skapandet av datorprogram.
 
 Betyget D
-Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.
+Elevens kunskaper bedöms sammantaget vara mellan C och E.
 
 Betyget C
 Eleven formulerar och planerar efter samråd med handledare programmeringsuppgifter med pseudokod eller diagramteknik.
@@ -45,7 +45,7 @@ Eleven redogör utförligt för programmeringens möjligheter och begränsningar
 Eleven redogör utförligt för principer för att uppnå god kvalitet vid skapandet av datorprogram.
 
 Betyget B
-Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.
+Elevens kunskaper bedöms sammantaget vara mellan A och C.
 
 Betyget A
 Eleven formulerar och planerar efter samråd med handledare programmeringsuppgifter med pseudokod eller diagramteknik.
